@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">JavaGround</string>
+    <string name="action_settings">Настройки</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="previous">Предыдущий</string>
+    <string name="textview_number_zero">0</string>
+    <string name="random_button_text">Случай</string>
+    <string name="toast_button_text">Тост</string>
+    <string name="count_button_text">Счет</string>
+    <string name="toast_text">Земля</string>
+    <string name="second_fragment_header">Вот случайное число от 0 до %d.</string>
+</resources>
